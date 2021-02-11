@@ -1,0 +1,6 @@
+# The database with the results is too big to be stored in this repository
+data/data21.sqlite3
+
+# Python machinery
+.ipynb_checkpoints/
+/__pycache__/
